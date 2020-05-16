@@ -1,7 +1,7 @@
 # Agnoster-powershell-theme
 theme for powershell like Agnoster theme
 ## install
-in C:\Users\<USER>\Documents\WindowsPowerShell
+in C:\Users\[your user]\Documents\WindowsPowerShell
 paste profile.ps1
 
 #
